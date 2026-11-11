@@ -1,0 +1,52 @@
+---
+title: "Research"
+listing:
+  - id: theses
+    contents: data/papers.yml
+    template: _templates/papers.ejs
+    include:
+      status: thesis
+    sort: false
+---
+
+My research sits at the intersection of sociology, political science, and computational
+methods. I am particularly interested in:
+
+- **Natural language processing and large language models** for social science research
+- **Quantitative text analysis** of political and online discourse
+- **Online radicalization and male supremacism**
+- **Political memory**
+
+## Current Projects
+
+**PhD project** · London School of Economics, 2025–present
+: [One or two sentences describing your dissertation project.]
+
+**ESRC Project *Political Memory*** · University College London, 2024–present
+: Predoctoral Researcher (2024–2025) and Postgraduate Research Assistant (since 2025) in
+  the Department of Political Science.
+
+<!--
+When you have papers, add them to data/papers.yml with status "published",
+"under-review" or "working", and add a section here like this one
+(plus a matching listing entry at the top of this file):
+
+## Working Papers
+
+::: {#working}
+:::
+-->
+
+## Theses
+
+::: {#theses}
+:::
+
+## Conference Presentations
+
+- **2026**: Vision in Methodology, Berlin, Germany (poster)
+- **2025**: 17th European Graduate Network Conference, Florence, Italy
+- **2025**: Male Supremacism Studies Conference, virtual
+- **2024**: 31st Nordic Sociological Association Conference, Linköping, Sweden
+- **2024**: CARMA: 6th International Conference on Advanced Research Methods and
+  Analytics (Internet and Big Data in Economics and Social Sciences), Valencia, Spain

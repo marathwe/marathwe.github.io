@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - files/
+
+website:
+  title: "Mara Weber"
+  description: "Mara Weber, PhD student in Social Research Methods at the London School of Economics, working on computational social science and quantitative text analysis."
+  site-url: https://marathwe.github.io
+  favicon: images/favicon.svg
+  open-graph: true
+  sidebar:
+    style: docked
+    title: "Mara Weber"
+    contents:
+      - href: index.qmd
+        text: "<i class=\"bi bi-person\"></i> About me"
+      - href: research.qmd
+        text: "<i class=\"bi bi-journal-text\"></i> Research"
+      - href: teaching.qmd
+        text: "<i class=\"bi bi-easel\"></i> Teaching"
+      - href: cv.qmd
+        text: "<i class=\"bi bi-file-earmark-text\"></i> CV"
+    tools:
+      - icon: envelope
+        href: mailto:maratheresaweber@googlemail.com
+        aria-label: Email
+      - icon: github
+        href: https://github.com/marathwe
+        aria-label: GitHub
+      # Add more icons when you have the links, e.g.:
+      # - icon: mortarboard
+      #   href: https://scholar.google.com/citations?user=XXXX
+      #   aria-label: Google Scholar
+    footer: "PhD Student<br>Department of Methodology<br>London School of Economics"
+  page-footer:
+    left: "© 2026 Mara Weber"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+      dark: [cosmo, styles.scss, styles-dark.scss]
+    respect-user-color-scheme: true
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

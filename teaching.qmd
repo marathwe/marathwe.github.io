@@ -1,0 +1,23 @@
+---
+title: "Teaching"
+---
+
+I teach statistics and computational methods, with a focus on natural language
+processing and quantitative text analysis.
+
+## Lecturer
+
+**Introduction to Natural Language Processing** · Informatica Feminale Summer School, University of Bremen, 2025 and 2026
+: Weekly course (1.5 h per week for one semester).
+
+**Statistics I** · University of Bremen, 2024
+: Undergraduate course for students in Sociology, Political Science, and Geology
+  (1.5 h per week for one semester).
+
+## Teaching Assistant
+
+**Quantitative Text Analysis for the Social Sciences** · University College London, 2026
+: Postgraduate Teaching Assistant.
+
+**Bachelor's Thesis Seminar (BA Sociology)** · University of Bremen, 2024
+: With Dr. Ute Volkmann (1.5 h per week for one semester).
