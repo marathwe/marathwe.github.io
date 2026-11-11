@@ -24,12 +24,16 @@ quarto preview
 ## Publishing
 
 The site lives at **https://marathwe.github.io** (repo `marathwe/marathwe.github.io`).
-Every push to `main` rebuilds and publishes it automatically via GitHub Actions
-(`.github/workflows/publish.yml`). It usually takes 1–2 minutes.
+GitHub Pages serves the `gh-pages` branch, which holds the rendered site.
+
+To update the live site after editing:
 
 ```bash
-git add -A
-git commit -m "Update website"
-git push
+quarto publish gh-pages --no-prompt   # renders and uploads the site (1-2 min to go live)
+git add -A && git commit -m "Update website" && git push   # saves the source files
 ```
-# marathwe.github.io
+
+`.github/workflows/publish.yml` (automatic publishing on push) is currently disabled on
+GitHub because Actions is blocked by a billing lock on the account. Once that is resolved,
+it can be re-enabled with `gh workflow enable publish.yml` (and Pages switched to
+"GitHub Actions" as its source).
