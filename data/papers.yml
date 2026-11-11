@@ -1,0 +1,30 @@
+# All papers in one place. Each entry appears on the Research page under the
+# section that matches its `status`:
+#   published | under-review | working | thesis
+# Entries are shown in the order they appear here (put the newest first).
+# Every field except `title` and `status` is optional.
+#
+# Example of a full entry:
+#
+# - title: "Title of the Paper"
+#   status: working
+#   authors: "**Mara Weber** and Coauthor A"
+#   venue: "Presented at EPSA 2027"
+#   year: 2027
+#   abstract: >
+#     A short abstract. Readers can expand it, so it does not clutter the page.
+#   links:
+#     - name: Preprint
+#       url: https://osf.io/preprints/
+#     - name: Code
+#       url: https://github.com/yourhandle/repo
+
+- title: "Male Supremacy Online: An Investigation of Incel Ideology through Qualitative Content Analysis and Active Machine Learning"
+  status: thesis
+  venue: "M.A. thesis, University of Bremen"
+  year: 2024
+
+- title: "Impact Factors of Generalized Trust in Europe"
+  status: thesis
+  venue: "B.A. thesis, University of Bremen"
+  year: 2021

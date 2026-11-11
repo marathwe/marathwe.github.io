@@ -1,0 +1,11 @@
+---
+title: "Curriculum Vitae"
+---
+
+[Download CV (PDF)](files/CV_Weber.pdf){.btn .btn-outline-primary}
+
+```{=html}
+<object data="files/CV_Weber.pdf" type="application/pdf" width="100%" style="height: 85vh; margin-top: 1rem; border: 1px solid #e7e0d4;">
+  <p>Your browser cannot display the PDF. <a href="files/CV_Weber.pdf">Download it here.</a></p>
+</object>
+```
