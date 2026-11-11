@@ -1,0 +1,92 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download CV (PDF)\n\n  Your browser cannot display the PDF. Download it here.",
+    "crumbs": [
+      "<i class=\"bi bi-file-earmark-text\"></i> CV"
+    ]
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research sits at the intersection of sociology, political science, and computational methods. I am particularly interested in:",
+    "crumbs": [
+      "<i class=\"bi bi-journal-text\"></i> Research"
+    ]
+  },
+  {
+    "objectID": "research.html#current-projects",
+    "href": "research.html#current-projects",
+    "title": "Research",
+    "section": "Current Projects",
+    "text": "Current Projects\n\nPhD project · London School of Economics, 2025–present\n\n[One or two sentences describing your dissertation project.]\n\nESRC Project Political Memory · University College London, 2024–present\n\nPredoctoral Researcher (2024–2025) and Postgraduate Research Assistant (since 2025) in the Department of Political Science.",
+    "crumbs": [
+      "<i class=\"bi bi-journal-text\"></i> Research"
+    ]
+  },
+  {
+    "objectID": "research.html#theses",
+    "href": "research.html#theses",
+    "title": "Research",
+    "section": "Theses",
+    "text": "Theses\n\n\n\n\nMale Supremacy Online: An Investigation of Incel Ideology through Qualitative Content Analysis and Active Machine Learning\n\n\n· M.A. thesis, University of Bremen · 2024\n\n\n\n\nImpact Factors of Generalized Trust in Europe\n\n\n· B.A. thesis, University of Bremen · 2021\n\n\n\nNo matching items",
+    "crumbs": [
+      "<i class=\"bi bi-journal-text\"></i> Research"
+    ]
+  },
+  {
+    "objectID": "research.html#conference-presentations",
+    "href": "research.html#conference-presentations",
+    "title": "Research",
+    "section": "Conference Presentations",
+    "text": "Conference Presentations\n\n2026: Vision in Methodology, Berlin, Germany (poster)\n2025: 17th European Graduate Network Conference, Florence, Italy\n2025: Male Supremacism Studies Conference, virtual\n2024: 31st Nordic Sociological Association Conference, Linköping, Sweden\n2024: CARMA: 6th International Conference on Advanced Research Methods and Analytics (Internet and Big Data in Economics and Social Sciences), Valencia, Spain",
+    "crumbs": [
+      "<i class=\"bi bi-journal-text\"></i> Research"
+    ]
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I teach statistics and computational methods, with a focus on natural language processing and quantitative text analysis.",
+    "crumbs": [
+      "<i class=\"bi bi-easel\"></i> Teaching"
+    ]
+  },
+  {
+    "objectID": "teaching.html#lecturer",
+    "href": "teaching.html#lecturer",
+    "title": "Teaching",
+    "section": "Lecturer",
+    "text": "Lecturer\n\nIntroduction to Natural Language Processing · Informatica Feminale Summer School, University of Bremen, 2025 and 2026\n\nWeekly course (1.5 h per week for one semester).\n\nStatistics I · University of Bremen, 2024\n\nUndergraduate course for students in Sociology, Political Science, and Geology (1.5 h per week for one semester).",
+    "crumbs": [
+      "<i class=\"bi bi-easel\"></i> Teaching"
+    ]
+  },
+  {
+    "objectID": "teaching.html#teaching-assistant",
+    "href": "teaching.html#teaching-assistant",
+    "title": "Teaching",
+    "section": "Teaching Assistant",
+    "text": "Teaching Assistant\n\nQuantitative Text Analysis for the Social Sciences · University College London, 2026\n\nPostgraduate Teaching Assistant.\n\nBachelor’s Thesis Seminar (BA Sociology) · University of Bremen, 2024\n\nWith Dr. Ute Volkmann (1.5 h per week for one semester).",
+    "crumbs": [
+      "<i class=\"bi bi-easel\"></i> Teaching"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello, welcome to my website!",
+    "section": "",
+    "text": "I am a PhD student in Social Research Methods in the Department of Methodology at the London School of Economics and Political Science, supervised by Prof. Thomas Robinson and Prof. Sara Hobolt. My PhD is funded by an LSE PhD Studentship.\nI work in computational social science, using natural language processing, quantitative text analysis, and machine learning to study political and social questions. Alongside my PhD, I am a Postgraduate Research Assistant on the ESRC project Political Memory in the Department of Political Science at University College London.\nI hold an M.A. in Sociology and Social Research and a B.A. in Sociology from the University of Bremen. My Master’s thesis combined qualitative content analysis and active machine learning to study incel ideology online.\nFeel free to contact me at maratheresaweber@googlemail.com. You can also view my full CV here.\n\n\n\n\nNews\n\n2026: Co-organizing the LSE Political Methodology Seminar Series.\n2026: Poster presentation at Vision in Methodology in Berlin.\n2026: Teaching Introduction to Natural Language Processing at the Informatica Feminale Summer School, University of Bremen.\nOct 2025: Started my PhD at the LSE.",
+    "crumbs": [
+      "<i class=\"bi bi-person\"></i> About me"
+    ]
+  }
+]
