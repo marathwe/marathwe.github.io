@@ -21,7 +21,7 @@ methods.
 ## Current Projects
 
 **PhD project** · London School of Economics, 2025–present
-: My doctoral research examines how British political elites have constructed and
+: My doctoral research examines how political elites have constructed and
   represented marginalization over the past century. Methodologically, I develop
   validation approaches for computationally generated text measurements.
 
