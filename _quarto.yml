@@ -39,3 +39,6 @@ format:
     toc: false
     smooth-scroll: true
     link-external-newwindow: true
+    include-in-header:
+      text: |
+        <meta name="google-site-verification" content="Zqq8sbmOnCHsfgMhKdx9o4PV3wAynNf_Cgp8A-0gIIA" />
