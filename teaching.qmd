@@ -5,7 +5,7 @@ title: "Teaching"
 I teach statistics and computational methods, with a focus on natural language
 processing and quantitative text analysis.
 
-## Lecturer
+## Course Instructor
 
 **Introduction to Natural Language Processing** · Informatica Feminale Summer School, University of Bremen, 2025 and 2026
 : Weekly course (1.5 h per week for one semester).
