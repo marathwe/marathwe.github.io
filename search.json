@@ -14,7 +14,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "My research sits at the intersection of sociology, political science, and computational methods. I am particularly interested in:",
+    "text": "My research sits at the intersection of sociology, political science, and computational methods.",
     "crumbs": [
       "<i class=\"bi bi-journal-text\"></i> Research"
     ]
@@ -24,7 +24,17 @@
     "href": "research.html#current-projects",
     "title": "Research",
     "section": "Current Projects",
-    "text": "Current Projects\n\nPhD project · London School of Economics, 2025–present\n\n[One or two sentences describing your dissertation project.]\n\nESRC Project Political Memory · University College London, 2024–present\n\nPredoctoral Researcher (2024–2025) and Postgraduate Research Assistant (since 2025) in the Department of Political Science.",
+    "text": "Current Projects\n\nPhD project · London School of Economics, 2025–present\n\nMy doctoral research examines how British political elites have constructed and represented marginalization over the past century. Methodologically, I develop validation approaches for computationally generated text measurements.\n\nESRC Project The Politics of Memory · University College London, 2024–present\n\nPredoctoral Researcher in Computational Social Science (2024–2025), and research and teaching assistant since 2025, in the Department of Political Science.",
+    "crumbs": [
+      "<i class=\"bi bi-journal-text\"></i> Research"
+    ]
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "Working Papers",
+    "text": "Working Papers\n\n\n\n\nOf Polish Heroism and Victimhood: How Wikipedia Captures Collective Memory\n\n\nK. Nalewajko, J. Spirig, and M. Weber\n\n\n\n\nPunching Down and Patting Heads: Stigmatization in Social Group Appeals\n\n\nMara Weber\n\n\n\n\nMale Supremacy Online: An Investigation of Incel Ideology Online\n\n\nMara Weber\n\n\n\nNo matching items",
     "crumbs": [
       "<i class=\"bi bi-journal-text\"></i> Research"
     ]
@@ -82,9 +92,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Hello, welcome to my website!",
+    "title": "Mara Weber",
     "section": "",
-    "text": "I am a PhD student in Social Research Methods in the Department of Methodology at the London School of Economics and Political Science, supervised by Prof. Thomas Robinson and Prof. Sara Hobolt. My PhD is funded by an LSE PhD Studentship.\nI work in computational social science, using natural language processing, quantitative text analysis, and machine learning to study political and social questions. Alongside my PhD, I am a Postgraduate Research Assistant on the ESRC project Political Memory in the Department of Political Science at University College London.\nI hold an M.A. in Sociology and Social Research and a B.A. in Sociology from the University of Bremen. My Master’s thesis combined qualitative content analysis and active machine learning to study incel ideology online.\nFeel free to contact me at maratheresaweber@googlemail.com. You can also view my full CV here.\n\n\n\n\nNews\n\n2026: Co-organizing the LSE Political Methodology Seminar Series.\n2026: Poster presentation at Vision in Methodology in Berlin.\n2026: Teaching Introduction to Natural Language Processing at the Informatica Feminale Summer School, University of Bremen.\nOct 2025: Started my PhD at the LSE.",
+    "text": "I am a PhD student in Social Research Methods in the Department of Methodology at the London School of Economics and Political Science, supervised by Thomas Robinson and Sara Hobolt. My PhD is funded by an LSE PhD Studentship.\nMy doctoral research examines how British political elites have constructed and represented marginalization over the past century. Methodologically, I work on developing validation approaches for computationally generated text measurements. My broader research interests include the reproduction of inequalities and the application of natural language processing in sociology and political science.\nBefore starting my PhD, I was a Predoctoral Researcher in Computational Social Science on the ESRC-funded project The Politics of Memory in the Department of Political Science at University College London, where I am now a research and teaching assistant.\nI hold an M.A. in Sociology and Social Research and a B.A. in Sociology from the University of Bremen.\nFeel free to contact me at m.weber1@lse.ac.uk. You can also view my full CV here.\n\n\n\n\nNews\n\n2026: Co-organizing the LSE Political Methodology Seminar Series.\n2026: Teaching Introduction to Natural Language Processing at the Informatica Feminale Summer School, University of Bremen.",
     "crumbs": [
       "<i class=\"bi bi-person\"></i> About me"
     ]
