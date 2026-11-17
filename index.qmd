@@ -9,7 +9,6 @@ image: images/profile.jpg
 I am a PhD student in Social Research Methods in the
 [Department of Methodology](https://www.lse.ac.uk/methodology) at the London School of
 Economics and Political Science, supervised by [Thomas Robinson](https://ts-robinson.com/) and [Sara Hobolt](https://hobolt.com/).
-My PhD is funded by an LSE PhD Studentship.
 
 My doctoral research examines how British political elites have constructed and
 represented marginalization over the past century. Methodologically, I work on developing
