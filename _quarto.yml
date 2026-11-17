@@ -22,28 +22,20 @@ website:
         text: "<i class=\"bi bi-easel\"></i> Teaching"
       - href: cv.qmd
         text: "<i class=\"bi bi-file-earmark-text\"></i> CV"
-    tools:
-      - icon: envelope
-        href: mailto:maratheresaweber@googlemail.com
-        aria-label: Email
-      - icon: github
-        href: https://github.com/marathwe
-        aria-label: GitHub
-      # Add more icons when you have the links, e.g.:
-      # - icon: mortarboard
-      #   href: https://scholar.google.com/citations?user=XXXX
-      #   aria-label: Google Scholar
-    footer: "PhD Student<br>Department of Methodology<br>London School of Economics"
+    # Icon buttons shown below the menu (email, GitHub, ORCID)
+    footer: |
+      <div class="sidebar-icons">
+        <a href="mailto:maratheresaweber@googlemail.com" aria-label="Email" title="Email"><i class="bi bi-envelope"></i></a>
+        <a href="https://github.com/marathwe" aria-label="GitHub" title="GitHub"><i class="bi bi-github"></i></a>
+        <a href="https://orcid.org/0009-0000-2102-072X" aria-label="ORCID" title="ORCID"><svg class="orcid-icon" viewBox="0 0 256 256" aria-hidden="true"><circle cx="128" cy="128" r="120" fill="none" stroke="currentColor" stroke-width="16"/><text x="128" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="120" fill="currentColor">iD</text></svg></a>
+      </div>
   page-footer:
     left: "© 2026 Mara Weber"
     right: "Built with [Quarto](https://quarto.org)"
 
 format:
   html:
-    theme:
-      light: [cosmo, styles.scss]
-      dark: [cosmo, styles.scss, styles-dark.scss]
-    respect-user-color-scheme: true
+    theme: [cosmo, styles.scss]
     toc: false
     smooth-scroll: true
     link-external-newwindow: true

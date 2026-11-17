@@ -19,6 +19,18 @@
 #     - name: Code
 #       url: https://github.com/yourhandle/repo
 
+- title: "Of Polish Heroism and Victimhood: How Wikipedia Captures Collective Memory"
+  status: working
+  authors: "K. Nalewajko, J. Spirig, and **M. Weber**"
+
+- title: "Punching Down and Patting Heads: Stigmatization in Social Group Appeals"
+  status: working
+  authors: "**Mara Weber**"
+
+- title: "Male Supremacy Online: An Investigation of Incel Ideology Online"
+  status: working
+  authors: "**Mara Weber**"
+
 - title: "Male Supremacy Online: An Investigation of Incel Ideology through Qualitative Content Analysis and Active Machine Learning"
   status: thesis
   venue: "M.A. thesis, University of Bremen"

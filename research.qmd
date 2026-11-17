@@ -1,6 +1,12 @@
 ---
 title: "Research"
 listing:
+  - id: working
+    contents: data/papers.yml
+    template: _templates/papers.ejs
+    include:
+      status: working
+    sort: false
   - id: theses
     contents: data/papers.yml
     template: _templates/papers.ejs
@@ -10,32 +16,23 @@ listing:
 ---
 
 My research sits at the intersection of sociology, political science, and computational
-methods. I am particularly interested in:
-
-- **Natural language processing and large language models** for social science research
-- **Quantitative text analysis** of political and online discourse
-- **Online radicalization and male supremacism**
-- **Political memory**
+methods.
 
 ## Current Projects
 
 **PhD project** · London School of Economics, 2025–present
-: [One or two sentences describing your dissertation project.]
+: My doctoral research examines how British political elites have constructed and
+  represented marginalization over the past century. Methodologically, I develop
+  validation approaches for computationally generated text measurements.
 
-**ESRC Project *Political Memory*** · University College London, 2024–present
-: Predoctoral Researcher (2024–2025) and Postgraduate Research Assistant (since 2025) in
-  the Department of Political Science.
-
-<!--
-When you have papers, add them to data/papers.yml with status "published",
-"under-review" or "working", and add a section here like this one
-(plus a matching listing entry at the top of this file):
+**ESRC Project *The Politics of Memory*** · University College London, 2024–present
+: Predoctoral Researcher in Computational Social Science (2024–2025), and research and
+  teaching assistant since 2025, in the Department of Political Science.
 
 ## Working Papers
 
 ::: {#working}
 :::
--->
 
 ## Theses
 
